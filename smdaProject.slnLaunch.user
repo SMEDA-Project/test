@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "smdaProject\\smdaProject.csproj",
+        "Action": "Start",
+        "DebugTarget": "Umbraco.Web.UI"
+      },
+      {
+        "Name": "smdaProject.AppHost\\smdaProject.AppHost.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "smdaProject.ServiceDefaults\\smdaProject.ServiceDefaults.csproj",
+        "Action": "Start",
+        "DebugTarget": "smdaProject.ServiceDefaults"
+      }
+    ]
+  }
+]

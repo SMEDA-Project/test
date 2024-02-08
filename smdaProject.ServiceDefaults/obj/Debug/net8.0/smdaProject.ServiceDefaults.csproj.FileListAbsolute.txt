@@ -1,0 +1,49 @@
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.deps.json
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\refint\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Hajar\source\repos\smdaProject\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\ref\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.deps.json
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\refint\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Hajar\source\repos\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\ref\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.deps.json
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\refint\smdaProject.ServiceDefaults.dll
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Hajar\OneDrive - Smart Developer\Desktop\smdaProject\smdaProject.ServiceDefaults\obj\Debug\net8.0\ref\smdaProject.ServiceDefaults.dll
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.deps.json
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\bin\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.sourcelink.json
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.dll
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\refint\smdaProject.ServiceDefaults.dll
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\smdaProject.ServiceDefaults.pdb
+C:\Users\Mohd1\Desktop\test\smdaProject.ServiceDefaults\obj\Debug\net8.0\ref\smdaProject.ServiceDefaults.dll
